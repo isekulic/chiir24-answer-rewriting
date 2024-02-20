@@ -4,7 +4,7 @@ This repository contains conversational information-seeking (CIS) data from [QRe
 Moreover, we realease crowd workers' assessments of answer rewrite type preferences. These include both the specific type preferred and a reason for choosing the specific type in textual format.
 
 
-The resources in the repository are developed for our CHIIR'24 paper: "Towards Self-Contained Answers: Entity-Based Answer Rewriting in Conversational Search", by Ivan Sekulić<sup>1</sup>, Krisztian Balog<sup>1</sup>, and Fabio Crestani<sup>1</sup>.
+The resources in the repository are developed for our CHIIR'24 paper: "Towards Self-Contained Answers: Entity-Based Answer Rewriting in Conversational Search", by Ivan Sekulić<sup>1</sup>, Krisztian Balog<sup>2</sup>, and Fabio Crestani<sup>1</sup>.
 
 <sup>1</sup> Università della Svizzera italiana, Lugano, Switzerland
 
