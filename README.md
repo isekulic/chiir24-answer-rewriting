@@ -38,6 +38,8 @@ Columns descriptions:
 * Answer.reason - textual description of the reason why the worker chose the rewrite type.
 
 
+## Citation
+
 If you find the resource useful, please cite as:
 ```
 @inproceedings{Sekulic:2024:CHIIR,
